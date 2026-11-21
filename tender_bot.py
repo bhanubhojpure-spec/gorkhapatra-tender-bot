@@ -1,1 +1,19 @@
-
+KEYWORDS = [
+    "tender",
+    "bidding",
+    "bid",
+    "bolpatra",
+    "procurement",
+    "darbhaupatra",
+    "ndcl",
+    "nepal telecom",
+    "nepal police",
+    "nepal rastrabank",
+    "ifb no",
+    "quotation",
+    "बोलपत्र",
+    "टेन्डर",
+    "खरिद",
+    "प्रस्ताव",
+    "दरभाउपत्र",
+]
